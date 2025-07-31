@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/RRR/depo/gun4/mlruns/0/models/m-6f5f623c1e3848d193382d58e2555981/artifacts
+creation_timestamp: 1753956238976
+experiment_id: '0'
+last_updated_timestamp: 1753956241882
+model_id: m-6f5f623c1e3848d193382d58e2555981
+model_type: ''
+name: model
+source_run_id: 597cf4d90f454f8daf6f192217a98858
+status: 2
+status_message: null
