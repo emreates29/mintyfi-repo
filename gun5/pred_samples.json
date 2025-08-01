@@ -1,0 +1,22 @@
+[
+  {
+    "mesaj": "ödül almak için tıkla.",
+    "tahmin": "reklam"
+  },
+  {
+    "mesaj": "Yarın 10:00 da toplantınız var.",
+    "tahmin": "normal"
+  },
+  {
+    "mesaj": "kazandınız, tıkla",
+    "tahmin": "reklam"
+  },
+  {
+    "mesaj": "Sınav açıklandı, kontrol et",
+    "tahmin": "normal"
+  },
+  {
+    "mesaj": "kaçırma, indirim",
+    "tahmin": "reklam"
+  }
+]
