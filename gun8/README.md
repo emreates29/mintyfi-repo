@@ -1,7 +1,7 @@
 # Meme Kanseri Teşhisi Sınıflandırma Projesi
 
 ## Proje Özeti
-Kanser veri seti kullanılarak meme kanserinin iyi huylu veya kötü huylu olarak sınıflandırılması içindir. 
+Proje Kanser veri seti kullanılarak meme kanserinin iyi huylu veya kötü huylu olarak sınıflandırılması içindir. 
 
 ---
 
