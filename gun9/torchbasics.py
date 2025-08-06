@@ -1,30 +1,30 @@
 import torch
 
-cihaz = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-print(f"Kullanılan cihaz: {cihaz}")
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(f"Cihaz: {device}")
 
-a = torch.randn(3, 3, device=cihaz)
-b = torch.randn(3, 3, device=cihaz)
+a = torch.randn(3, 3, device=device)
+b = torch.randn(3, 3, device=device)
 print("Tensor a:\n", a)
 print("Tensor b:\n", b)
 
-toplam = a + b
-print("\nToplam (a + b):\n", toplam)
+sum_tensor = a + b
+print("\nToplam:\n", sum_tensor)
 
-matris_carpim = torch.matmul(a.T, b)
-print("\nMatris çarpımı (a.T @ b):\n", matris_carpim)
+matmul_result = torch.matmul(a.T, b)
+print("\nMatris çarpımı a.T @ b:\n", matmul_result)
 
-relu_sonuc = torch.relu(a)
-print("\nReLU uygulanmış a:\n", relu_sonuc)
+relu_tensor = torch.relu(a)
+print("\nReLU uygulanmış a:\n", relu_tensor)
 
-duzlestirilmis = a.view(-1)
-print("\nDüzleştirilmiş a (flattened):\n", duzlestirilmis)
+reshaped = a.view(-1)
+print("\nYeniden şekillendirilmiş (flattened) a:\n", reshaped)
 
-x = torch.randn(3, 3, requires_grad=True, device=cihaz)
-w = torch.randn(3, 2, requires_grad=True, device=cihaz)
+x = torch.randn(3, 3, requires_grad=True, device=device)
+w = torch.randn(3, 2, requires_grad=True, device=device)
 y = x @ w
-kayıp = y.sum()
-kayıp.backward()
+loss = y.sum()
+loss.backward()
 
 print("\nx tensörünün gradyanı:\n", x.grad)
 print("w tensörünün gradyanı:\n", w.grad)
