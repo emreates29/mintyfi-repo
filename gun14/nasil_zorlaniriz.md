@@ -1,6 +1,6 @@
 # Gün 14
 
-## 🎯 Amaç  
+## Amaç  
 **LLM/NLP kavram özetini yapmak** ve sonraki 15 günlük ileri faza hazırlık konularını toplamak.  
 
 ## 1️⃣ LLM / NLP Kavram Özetleri  
