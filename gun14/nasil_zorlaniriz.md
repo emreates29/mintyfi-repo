@@ -51,7 +51,7 @@
 3. **Embedding boyutu seçimi**  
    - Daha yüksek boyutlu embeddingler daha doğru olabilir ancak depolama, arama hızı ve maliyet dengesini zorlaştırır.  
 
-4. **Hallucination (uydurma) problemi**  
+4. **Hallucination problemi**  
    - Modelin güvenle ama yanlış bilgi üretmesi, özellikle doğrulama yapılmadığında fark edilmesi zor olabilir.  
 
 5. **Hız / kalite dengesini kurmak**  
