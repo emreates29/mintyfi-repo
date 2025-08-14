@@ -1,9 +1,6 @@
 # Gün 14
 
-## Amaç  
-**LLM/NLP kavram özetini yapmak** ve sonraki 15 günlük ileri faza hazırlık konularını toplamak.  
-
-## 1️⃣ LLM / NLP Kavram Özetleri  
+## LLM / NLP Kavram Özetleri  
 
 **Large Language Model (LLM)** ve **Natural Language Processing (NLP)**
 
@@ -32,7 +29,7 @@
 
 ---
 
-## 2️⃣ Sonraki 15 Günlük İleri Faz Konuları  
+## Sonraki 15 Günlük İleri Faz Konuları  
 
 1. **Prompt engineering** (rol, format, kısıtlama teknikleri).  
 2. **RAG (Retrieval-Augmented Generation)** yapısı ve uygulaması.  
@@ -43,7 +40,7 @@
 7. **Tool kullanımı**: Kod çalıştırma, web arama, dosya okuma.  
 ---
 
-## 3️⃣ Ödev: NLP’de Bizi En Çok Ne Zorlar?  
+## NLP’de Bizi En Çok Ne Zorlar?  
 
 1. **Token sınırının dolması**  
    - Uzun metinlerde veya çok turlu konuşmalarda context penceresinin aşılması sonucu önceki bilgilerin unutulması.  
