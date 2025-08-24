@@ -56,7 +56,7 @@ data/ klasörü altında nutuk.pdf dosyasının bulunduğundan emin olun.
 
 py chatbot.py
 
-- Sorularınızı yazabilirsiniz, örn: "Atatürk Samsun'a ne zaman çıktı?"  
+- Sorularınızı yazabilirsiniz, örn: "TBMM ne zaman kuruldu?"  
 - Çıkmak için: q
 
 
