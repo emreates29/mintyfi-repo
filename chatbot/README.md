@@ -1,9 +1,9 @@
-**Nutuk Chatbot**, Mustafa Kemal Atatürk’ün *Nutuk* eserini kaynak alarak sorularınıza cevap veren bir yapay zeka asistanıdır. PDF üzerinden metni işler ve Ollama ile yanıt üretir. 
+**📚 Nutuk Chatbot**, Mustafa Kemal Atatürk’ün *Nutuk* eserini kaynak alarak sorularınıza cevap veren bir yapay zeka asistanıdır. PDF üzerinden metni işler ve Ollama ile yanıt üretir. 
 
 --- 
 
 
-## Özellikler 
+## 🚀 Özellikler 
 - Nutuk PDF’ini parçalara ayırır ve embedding oluşturur. 
 - Kullanıcının sorusuna en ilgili metin parçalarını seçer. 
 - Sorulara kısa ve net cevap verir. 
@@ -11,20 +11,18 @@
 
  ---
 
-## Proje Dosya Yapısı
-nutuk-chatbot/
+## 🏗️ Proje Dosya Yapısı
+chatbot/
 ├── 📄 chatbot.py
 ├── 📄 README.md
 ├── 📁 data/
 │   └── 📄 nutuk.pdf
 ├── 📁 screenshots/
-│   └── 🖼️ chatbot_soru.PNG  
+│   └── 🖼️ chatbot_soru.PNG
 ├── 📄 embeddings.pkl
 ├── 📄 requirements.txt
 
- ---
-
-## Kurulum
+## 📥Kurulum
 
 ### 1. GitHub’dan Klonlama
 git clone https://github.com/emreates29/mintyfi-repo.git
@@ -65,7 +63,7 @@ Terminal üzerinden chatbot çalışırken ekran görüntüsü:
 ![Terminal Çalışması](screenshots/chatbot_soru.PNG)
 ---
 
-## Örnek Sorular
+## 💡 Örnek Sorular
 
 - TBMM ne zaman kuruldu?
 - Sakarya Meydan Muharebesi hangi tarihlerde gerçekleşti?
