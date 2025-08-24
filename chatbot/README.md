@@ -1,4 +1,4 @@
-# **Nutuk Chatbot**
+# **🤖🧠🇦🇮👾 Nutuk Chatbot**
 *Mustafa Kemal Atatürk’ün Nutuk eserini kaynak alarak sorularınıza cevap veren bir yapay zeka asistanıdır. PDF üzerinden metni işler ve Ollama ile yanıt üretir.*
 
 ---
