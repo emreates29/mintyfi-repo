@@ -5,11 +5,10 @@
 
 ## 🚀 Özellikler
 - Node-RED üzerinden makine verilerini REST API ile yayınlar.
-- Langflow agent, kullanıcı sorusuna göre API’den veri çeker.
 - Kullanıcıya ham veriyi ve analizini gösterir.
 - Normal sınırların dışındaki değerler için uyarı üretir.
 - Sohbet geçmişini hatırlayabilir.
-- Terminal veya Langflow arayüzünden kullanılabilir.
+
 
 ---
 
