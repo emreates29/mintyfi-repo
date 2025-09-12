@@ -1,9 +1,0 @@
-Input: There is a meeting today at 5 PM.
-Output: {'label': 'ham', 'probability': 0.8405678084174082}
-
-Input: Congratulations! Click here to claim your prize.
-Output: {'label': 'spam', 'probability': 0.8558571995579697}
-
-Input: Don’t forget the class starts at 10 AM tomorrow.
-Output: {'label': 'ham', 'probability': 0.8653204595824026}
-
